@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "agliza-app",
+    "slug": "agliza-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
