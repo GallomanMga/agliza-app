@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "supportsTables": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    }
   }
 }
